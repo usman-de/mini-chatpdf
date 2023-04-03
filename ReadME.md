@@ -4,9 +4,16 @@ This is a simple Python script that allows you to chat with PDF files using the 
 
 <h2 align="center">Prerequisites</h2>
 
-Before you can use this script, you will need to have the following installed: 1. Python 3.7 or higher
+Before you can use this script, you will need to have the following installed:
 
-You will also need to sign up for an OpenAI API key, a Pinecone API key, a Pinecone Environment and a Pinecone Index Name.
+- Python 3.7 or higher
+
+You will also need to sign up for an:
+
+- OpenAI API key,
+- Pinecone API key,
+- Pinecone Environment and
+- Pinecone Index Name
 
 <h2 align="center">Getting Started</h2>
 
