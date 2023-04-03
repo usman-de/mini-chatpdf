@@ -1,0 +1,6 @@
+Python
+langchain
+openai
+pinecone-client
+layoutparser[layoutmodels,tesseract]
+unstructured[local-inference]
