@@ -1,6 +1,6 @@
 <h1 align="center">Chat with PDF files using ChatGPT API</h1>
 
-This is a simple Python script that allows you to chat with PDF files using the OpenAI GPT API. By running the script and providing a PDF file and a query, the system will extract relevant information from the PDF and generate a response to your query using the GPT API.
+This is a simple Python script that allows you to **chat with PDF files using the OpenAI GPT API**. By running the script and providing a PDF file and a query, the system will extract relevant information from the PDF and generate a response to your query using the GPT API.
 
 <h2 align="center">Prerequisites</h2>
 
@@ -10,9 +10,9 @@ Before you can use this script, you will need to have the following installed:
 
 You will also need to sign up for an:
 
-- OpenAI API key,
-- Pinecone API key,
-- Pinecone Environment and
+- [OpenAI API key](https://platform.openai.com/account/api-keys "Visit Website"),
+- [Pinecone API key](https://www.pinecone.io/ "Sign up for free and create api"),
+- [Pinecone Environment](https://www.pinecone.io/ "Sign up for free and create api") and
 - Pinecone Index Name
 
 <h2 align="center">Getting Started</h2>
