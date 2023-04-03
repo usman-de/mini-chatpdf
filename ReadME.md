@@ -22,11 +22,13 @@ To use this script, you will need to do the following:
 <h4>1. Clone the repository:</h4>
 
 ```bash
-git clone https://github.com/usmananwaar-de/mini-
+git clone https://github.com/usmananwaar-de/mini-chatpdf
 ```
 
 <h4>2. Install the required packages:</h4>
+```bash
 pip install -r requirements.txt
+```
 
 <h4>3. Changes in the scrript:</h4>
    In the script, do the necessary changes like write pdf location and api keys
