@@ -20,9 +20,7 @@ You will also need to sign up for an:
 To use this script, you will need to do the following:
 
 <h4>1. Clone the repository:</h4>
-```bash
 git clone https://github.com/usmananwaar-de/mini-chatpdf
-```
 
 <h4>2. Install the required packages:</h4>
 pip install -r requirements.txt
