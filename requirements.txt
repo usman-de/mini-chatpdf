@@ -1,4 +1,4 @@
-Python
+
 langchain
 openai
 pinecone-client
